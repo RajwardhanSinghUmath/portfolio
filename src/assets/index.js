@@ -31,6 +31,12 @@ import dsc from "./company/dsc.jpg"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import fintractImg from "./fintractImg.png"
+import outreachAgentImg from "./outreachAgentImg.png"
+import contentAgentImg from "./contentAgentImg.png"
+import reachsureImg from "./reachsureImg.png"
+import looplearnImg from "./looplearnImg.png"
+import chzztImg from "./chzztImg.png"
 
 export {
   logo,
@@ -63,4 +69,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  fintractImg,
+  outreachAgentImg,
+  contentAgentImg,
+  reachsureImg,
+  looplearnImg,
+  chzztImg
 };
