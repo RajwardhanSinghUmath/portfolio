@@ -180,6 +180,20 @@ const projects = [
     source_code_link: "https://github.com/RajwardhanSinghUmath/fintract",
   },
   {
+  name: "AI-Powered Dead Code Elimination",
+  description:
+    "Deep learning system that detects and removes dead code by fine-tuning Microsoft's CodeBERT model on a 7k-sample synthetic dataset.",
+  tags: [
+    { name: "streamlit", color: "blue-text-gradient" },
+    { name: "pytorch", color: "green-text-gradient" },
+    { name: "codebert", color: "pink-text-gradient" },
+  ],
+  image: dce,
+  link: "/",
+  source_code_link:
+    "https://github.com/RajwardhanSinghUmath/DCECodeBERT",
+},
+  {
     name: "Chzzt",
     description:
       "Real-time chat app with public/private messaging built using MERN stack, Socket.IO, JWT authentication, TailwindCSS and daisyUI.",
